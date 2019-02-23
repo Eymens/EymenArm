@@ -1,5 +1,9 @@
 # EymenArm
 In this project, a remote controlled servo based robot arm is coded and designed.
+
+
+
+
 import time 
 import serial 
 import RPi.GPIO as GPIO
@@ -41,11 +45,6 @@ while 1:
     ser.readline()
     print x
     
-
-
-
-
-
 angle = 2.5
 speed = 0.1
 s1.ChangeDutyCycle(angle)
