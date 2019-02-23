@@ -1,8 +1,7 @@
 # EymenArm
 > In this project, a remote controlled servo based robot arm is coded and designed.
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+![2019 02 23-12 24](https://user-images.githubusercontent.com/42908275/53284625-0ca86600-3768-11e9-8112-6395187ef2a4.png)
+
 
 One to two paragraph statement about your product and what it does.
 
